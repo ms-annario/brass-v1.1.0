@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishan Ave 4 Affected Works Zone",
+        "requirement": "RQ-2026-0501",
+        "description": "Drawn polygon boundary imported as an affected area along Bishan Avenue 4",
+        "from": "2026-12-01T22:00:00+08:00",
+        "until": "2026-12-14T05:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [103.84984, 1.35050],
+            [103.85155, 1.35059],
+            [103.85164, 1.34870],
+            [103.84993, 1.34870],
+            [103.84984, 1.35050]
+          ]
+        ]
+      }
+    }
+  ]
+}

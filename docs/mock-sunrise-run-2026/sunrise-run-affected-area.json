@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marina Bay Sunrise Run Event Zone",
+        "requirement": "RQ-2026-1213",
+        "description": "Mock-up: event zone around the Marina Bay Sunrise Run 2026 course on Downtown Avenue 4 (fictional event)",
+        "from": "2026-12-13T03:00:00+08:00",
+        "until": "2026-12-13T11:30:00+08:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [103.85082, 1.27925],
+            [103.85077, 1.28046],
+            [103.85053, 1.28149],
+            [103.84989, 1.28267],
+            [103.84981, 1.28374],
+            [103.85195, 1.29043],
+            [103.85215, 1.28740],
+            [103.85142, 1.27657],
+            [103.85082, 1.27925]
+          ]
+        ]
+      }
+    }
+  ]
+}

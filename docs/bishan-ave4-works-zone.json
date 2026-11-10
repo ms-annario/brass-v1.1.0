@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishan Ave 4 works zone",
+        "requirement": "RQ-2026-0412",
+        "from": "2026-12-01T22:00:00+08:00",
+        "until": "2026-12-14T05:00:00+08:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [103.84984, 1.3505],
+            [103.85155, 1.35059],
+            [103.85164, 1.3487],
+            [103.84993, 1.3487],
+            [103.84984, 1.3505]
+          ]
+        ]
+      }
+    }
+  ]
+}
